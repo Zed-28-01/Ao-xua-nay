@@ -1,0 +1,8 @@
+{
+  "name": "Áo Xưa Nay",
+  "description": "Nền tảng khám phá và phối đồ Việt phục truyền thống qua 4 thời kỳ lịch sử kết hợp Hàng rào văn hóa và AI Stylist Gen Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
